@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Links you love</title>
+    </head>
+    <body>
+
+        <h1>Links I love</h1>
+
+        <ul>
+            <a target="_blank" href="https://abu.edu.ng/">Get more info about Abu,Zaria</a> <br>
+                
+            <a target="_blank" href="https://fdown.net">Paste link to download facebook videos </a> <br>
+          <a target="_blank" href="https://www.nairaland.com">Gist and amebo inside Nigeria</a>
+        </ul>
+
+        <img src="https://www.kasandbox.org/programming-images/cute/Heart.png">
+
+    </body>
+</html>
