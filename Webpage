@@ -1,0 +1,37 @@
+head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>Welcome to the Highlands!</h1>
+            <p>Your adventure into untamed beauty begins here.</p>
+        </header>
+        <div class="content">
+            <div class="image-section">
+                <!-- Image Tag with the correct URL -->
+                <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%BE%D0%BB%D0%B5%D0%BD%D1%8F.jpg" alt="Portrait of a deer">
+            </div>
+            <div class="info-section">
+                <h2>Why Visit the Highlands?</h2>
+                <p>The Highlands offer a perfect blend of adventure and relaxation. Whether you're looking to challenge yourself with outdoor activities or unwind amidst breathtaking scenery, you'll find it all here. Don’t forget to try the local cuisine and witness the unforgettable sunsets!</p>
+            </div>
+        </div>
+        <div class="attractions">
+            <h2>Top Things to See and Do</h2>
+            <ul>
+                <li>Hike through the rugged mountain trails.</li>
+                <li>Visit the tranquil Loch Ness and search for the mythical creature.</li>
+                <li>Explore centuries-old castles and ruins.</li>
+                <li>Immerse yourself in the rich culture and traditions of the locals.</li>
+            </ul>
+        </div>
+        <footer class="footer">
+            <p>Start planning your trip to the Highlands today!</p>
+        </footer>
+    </div>
+</body>
+</html>
