@@ -1,0 +1,18 @@
+
+!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>Hello, World!</title>
+  <script>
+    function askForName() {
+      let userName = "Stephanie";  // Save the name in a variable
+      document.write("<h1><strong>Hello, " + userName + "!</strong></h1>");  // Display on the page
+      alert("Hello, " + userName + "!");  // Display in an alert box
+    }
+  </script>
+</head>
+<body onload="askForName()">
+</body>
+</html>
+
