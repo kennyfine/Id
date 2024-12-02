@@ -1,0 +1,20 @@
+Grade Calculator
+
+<input id="mark" type="number" placeholder="Enter your mark">
+<button onclick="calculateGrade()">Calculate Grade</button>
+<p id="result"></p>
+
+<script>
+function calculateGrade() {
+var mark = document.getElementById("mark").value;
+var result = document.getElementById("result");
+
+if (mark > 100) {
+result.innerText = "You got an A! Great job!";
+} else if (mark = 50) {
+result.innerText = "You got a C. Keep trying!";
+} else {
+result.innerText = "You got an F. Better luck next time!";
+}
+}
+</script>
